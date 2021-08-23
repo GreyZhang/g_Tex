@@ -2,3 +2,4 @@
 - 看了很多介绍，感觉这是一个值得学习的东西。一则是这是一个很棒的工具，二则是想看看是否能够从中体会到高德纳关于Tex的设计理念。
 ** 学习笔记
 - [[https://greyzhang.blog.csdn.net/article/details/119878409][740_CTEX安装]]
+- [[https://greyzhang.blog.csdn.net/article/details/119881685][741_ubuntu中安装latex]]
