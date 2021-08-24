@@ -3,3 +3,4 @@
 ** 学习笔记
 - [[https://greyzhang.blog.csdn.net/article/details/119878409][740_CTEX安装]]
 - [[https://greyzhang.blog.csdn.net/article/details/119881685][741_ubuntu中安装latex]]
+- [[https://greyzhang.blog.csdn.net/article/details/119881775][742_从CTAN上获取latex的支持包并安装]]
